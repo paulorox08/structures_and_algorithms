@@ -1,0 +1,14 @@
+//
+// Created by Paulo Adeva on 7/4/2024.
+//
+
+#ifndef STRUCTURES_AND_ALGORITHMS_TESTING_H
+#define STRUCTURES_AND_ALGORITHMS_TESTING_H
+
+
+class testing {
+
+};
+
+
+#endif //STRUCTURES_AND_ALGORITHMS_TESTING_H
